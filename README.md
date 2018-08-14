@@ -1,1 +1,1 @@
-# gitattributesdemo
+# gitattributes-demo
